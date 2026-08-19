@@ -1,17 +1,17 @@
 [
-    {
-        "title": "PHP empty() treats 0 as empty – use is_null() instead",
-        "url": "https://github.com/BuriroDev/burirodev-til/issues/1",
-        "date": "2026-08-19"
-    },
-    {
-        "title": "Added a compound MySQL index to cut DevScore query time from 2s to 0.02s",
-        "url": "https://github.com/BuriroDev/burirodev-til/issues/2",
-        "date": "2026-08-18"
-    },
-    {
-        "title": "Laravel's tap() helper is perfect for logging without breaking fluent chains",
-        "url": "https://github.com/BuriroDev/burirodev-til/issues/3",
-        "date": "2026-08-17"
-    }
+  {
+    "title": "Legacy product was struggling with database queries, so I used SET GLOBAL SQL_MODE = '' (NOT A BEST PRACTICE) you have undo it later",
+    "url": "https://github.com/BuriroDev/burirodev-til",
+    "date": "2026-08-19"
+  },
+  {
+    "title": "How to use die() for debugging legacy PHP",
+    "url": "https://github.com/BuriroDev/burirodev-til",
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Setting up MySQL indexes for faster DevScore queries",
+    "url": "https://github.com/BuriroDev/burirodev-til",
+    "date": "2026-08-17"
+  }
 ]
