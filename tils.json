@@ -1,5 +1,10 @@
 [
   {
+    "title": "Use PDO for SQL-lite queries",
+    "url": "https://github.com/BuriroDev/burirodev-til",
+    "date": "2026-08-25"
+  },
+  {
     "title": "Legacy product was struggling with database queries, so I used SET GLOBAL SQL_MODE = '' (NOT A BEST PRACTICE) you have undo it later",
     "url": "https://github.com/BuriroDev/burirodev-til",
     "date": "2026-08-19"
